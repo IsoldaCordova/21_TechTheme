@@ -26,12 +26,16 @@
 	background: aqua;
 	padding: 20px;
 	width: 100px;
-	height: 20px;
+	height: 25px;
 	color: white;
 }
 .boton3{
 	background: white;
-	padding: 20px;
+	margin-left: 2px;
 	width: 100px;
-	height: 20px;
+	height: 25px;
+}
+.img{
+	width: 85%;
+	margin-left: 70px;
 }
